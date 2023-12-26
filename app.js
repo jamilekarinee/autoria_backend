@@ -1,6 +1,5 @@
 const express = require('express');
 const cors = require('cors');
-const tarefasRouter = require('./controllers/TarefaController');
 const loginRouter = require('./controllers/LoginController');
 const produtoraRouter = require('./controllers/ProdutoraController');
 const generoRouter = require('./controllers/GeneroController');
